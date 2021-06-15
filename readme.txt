@@ -1,6 +1,22 @@
-=== Hello Elementor Child ===
+
+![Logo](https://github.com/Yeehawlerz101/LoveGelu-Portal/blob/master/screenshot.png?raw=true)
+  
+
+# LoveGelu Portal
+ === LoveGelu Portal ===
 
 Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
+
+## Authors
+- [@DeviatedSystems](https://github.com/Deviated-Systems)
+- [@Yeehawlerz101](https://www.github.com/Yeehawlerz101)
+- [@elemntor](https://github.com/elementor)
+- [@KingYes](https://www.github.com/KingYes)
+- [@ariel.k](#)
+- [@jzaltzberg](#)
+- [@mati1000](#)
+- [@bainternet](https://www.github.com/bainternet)
+
 Requires at least: WordPress 4.7
 Tested up to: WordPress 5.2
 Stable tag: 1.0.0
@@ -65,3 +81,31 @@ Source: https://stocksnap.io/photo/4B83RD7BV9
 
 = 1.0.0 - 2019-05-23 =
 * Initial Public Release
+
+## Support
+
+For support, email n.master@deviatedsystems.com or join our [discord](https://discord.gg/YWMuauEX8c) channel.
+
+  
+## Installation 
+
+Install via wordpress theme installer or drag and drop into 
+```
+wp-content/themes/
+```
+Make sure you have `hello-elementor` theme installed already
+
+## Tech Stack
+
+**Front End:** Vanilla JS, HTML, TailwindCSS
+
+**Back End:** Wordpress, PHP, Aache, NGINX
+
+  
+## Used By
+
+This project is used by the following companies:
+
+- LoveGelu
+
+  
