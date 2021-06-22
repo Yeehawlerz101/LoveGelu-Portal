@@ -1,5 +1,5 @@
 <?php 
-/* Template Name: Portal Settings  */ 
+/* Template Name: Portal Edit Events  */ 
 ?>
 
 <?php get_header(); ?>
