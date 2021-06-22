@@ -18,6 +18,18 @@
                                                 // End of the loop.
                                 endwhile;
                                 ?>
+
+
+
+
+
+<div class="py-8 px-6 bg-white">
+  <div class="container px-4 mx-auto">
+    <h2 class="text-2xl font-bold">Welcome, John Smith 👋</h2>
+  </div>
+</div>
+
+                
                 </main><!-- .site-main -->
                 <?php get_sidebar( 'content-bottom' ); ?>
 </div><!-- .content-area -->
