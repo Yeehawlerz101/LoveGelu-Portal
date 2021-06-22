@@ -25,11 +25,16 @@
 
 <div class="py-8 px-6 bg-white">
   <div class="container px-4 mx-auto">
-    <h2 class="text-2xl font-bold">Welcome, John Smith 👋</h2>
+    <h2 class="text-2xl font-bold">Welcome,
+        <?php 
+  global $current_user;
+  wp_get_current_user() ;
+  echo $current_user->user_login;
+?> 👋</h2>
   </div>
 </div>
 
-                
+
                 </main><!-- .site-main -->
                 <?php get_sidebar( 'content-bottom' ); ?>
 </div><!-- .content-area -->
